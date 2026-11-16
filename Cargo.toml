@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-alsa-subsystem"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS alsa-subsystem component"
+
+[lib]
+name = "alsa_subsystem"
+path = "src/lib.rs"
