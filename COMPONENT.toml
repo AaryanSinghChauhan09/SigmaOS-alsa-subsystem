@@ -3,7 +3,7 @@ name = "SigmaOS-alsa-subsystem"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "alsa-subsystem component"
+description = "ALSA sound subsystem: PCM and control devices"
 upstream = []
 
 [contract]
